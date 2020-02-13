@@ -1,53 +1,437 @@
-Item Set = ['Item1']       Support = 13.2        Size = 1
-Item Set = ['Item2']       Support = 14.4        Size = 1
-Item Set = ['Item3']       Support = 15.5        Size = 1
-Item Set = ['Item4']       Support = 11.2        Size = 1
-Item Set = ['Item5']       Support = 13.1        Size = 1
-Item Set = ['Item6']       Support = 14.6        Size = 1
-Item Set = ['Item7']       Support = 13.1        Size = 1
-Item Set = ['Item8']       Support = 13.9        Size = 1
-Item Set = ['Item9']       Support = 15.0        Size = 1
-Item Set = ['Item10']       Support = 12.8        Size = 1
-Item Set = ['Item11']       Support = 13.5        Size = 1
-Item Set = ['Item12']       Support = 13.1        Size = 1
-Item Set = ['Item13']       Support = 12.6        Size = 1
-Item Set = ['Item14']       Support = 13.4        Size = 1
-Item Set = ['Item15']       Support = 13.6        Size = 1
-Item Set = ['Item16']       Support = 15.3        Size = 1
-Item Set = ['Item17']       Support = 15.4        Size = 1
-Item Set = ['Item18']       Support = 13.4        Size = 1
-Item Set = ['Item19']       Support = 14.2        Size = 1
-Item Set = ['Item20']       Support = 14.9        Size = 1
-Item Set = ['Item21']       Support = 12.8        Size = 1
-Item Set = ['Item22']       Support = 14.2        Size = 1
-Item Set = ['Item23']       Support = 16.6        Size = 1
-Item Set = ['Item24']       Support = 14.1        Size = 1
-Item Set = ['Item25']       Support = 13.5        Size = 1
-Item Set = ['Item26']       Support = 12.8        Size = 1
-Item Set = ['Item27']       Support = 13.7        Size = 1
-Item Set = ['Item28']       Support = 13.8        Size = 1
-Item Set = ['Item29']       Support = 15.3        Size = 1
-Item Set = ['Item30']       Support = 14.5        Size = 1
-Item Set = ['Item31']       Support = 13.0        Size = 1
-Item Set = ['Item32']       Support = 13.8        Size = 1
-Item Set = ['Item33']       Support = 13.2        Size = 1
-Item Set = ['Item34']       Support = 14.7        Size = 1
-Item Set = ['Item35']       Support = 15.0        Size = 1
-Item Set = ['Item36']       Support = 13.5        Size = 1
-Item Set = ['Item37']       Support = 12.7        Size = 1
-Item Set = ['Item38']       Support = 14.2        Size = 1
-Item Set = ['Item39']       Support = 12.2        Size = 1
-Item Set = ['Item40']       Support = 13.9        Size = 1
-Item Set = ['Item41']       Support = 14.1        Size = 1
-Item Set = ['Item42']       Support = 15.5        Size = 1
-Item Set = ['Item43']       Support = 14.4        Size = 1
-Item Set = ['Item44']       Support = 15.1        Size = 1
-Item Set = ['Item45']       Support = 13.0        Size = 1
-Item Set = ['Item46']       Support = 15.3        Size = 1
-Item Set = ['Item47']       Support = 14.3        Size = 1
-Item Set = ['Item48']       Support = 13.1        Size = 1
-Item Set = ['Item49']       Support = 13.9        Size = 1
-Item Set = ['Item50']       Support = 15.9        Size = 1
-Item Set = ['Item3', 'Item23']       Support = 3.1        Size = 2
-Item Set = ['Item22', 'Item44']       Support = 3.0        Size = 2
-Item Set = ['Item26', 'Item44']       Support = 3.2        Size = 2
+Item Set = ['Item1']       Support = 14.4        Size = 1
+Item Set = ['Item2']       Support = 13.2        Size = 1
+Item Set = ['Item3']       Support = 14.6        Size = 1
+Item Set = ['Item4']       Support = 15.0        Size = 1
+Item Set = ['Item5']       Support = 12.6        Size = 1
+Item Set = ['Item6']       Support = 13.9        Size = 1
+Item Set = ['Item7']       Support = 15.2        Size = 1
+Item Set = ['Item8']       Support = 12.2        Size = 1
+Item Set = ['Item9']       Support = 13.5        Size = 1
+Item Set = ['Item10']       Support = 13.9        Size = 1
+Item Set = ['Item11']       Support = 13.4        Size = 1
+Item Set = ['Item12']       Support = 14.7        Size = 1
+Item Set = ['Item13']       Support = 14.1        Size = 1
+Item Set = ['Item14']       Support = 13.5        Size = 1
+Item Set = ['Item15']       Support = 12.9        Size = 1
+Item Set = ['Item16']       Support = 15.4        Size = 1
+Item Set = ['Item17']       Support = 13.2        Size = 1
+Item Set = ['Item18']       Support = 14.5        Size = 1
+Item Set = ['Item19']       Support = 13.8        Size = 1
+Item Set = ['Item20']       Support = 14.8        Size = 1
+Item Set = ['Item21']       Support = 12.7        Size = 1
+Item Set = ['Item22']       Support = 13.3        Size = 1
+Item Set = ['Item23']       Support = 12.5        Size = 1
+Item Set = ['Item24']       Support = 13.1        Size = 1
+Item Set = ['Item25']       Support = 12.3        Size = 1
+Item Set = ['Item26']       Support = 15.3        Size = 1
+Item Set = ['Item27']       Support = 14.9        Size = 1
+Item Set = ['Item28']       Support = 15.3        Size = 1
+Item Set = ['Item29']       Support = 14.5        Size = 1
+Item Set = ['Item30']       Support = 15.4        Size = 1
+Item Set = ['Item31']       Support = 15.3        Size = 1
+Item Set = ['Item32']       Support = 14.7        Size = 1
+Item Set = ['Item33']       Support = 13.9        Size = 1
+Item Set = ['Item34']       Support = 12.5        Size = 1
+Item Set = ['Item35']       Support = 14.9        Size = 1
+Item Set = ['Item36']       Support = 14.1        Size = 1
+Item Set = ['Item37']       Support = 13.4        Size = 1
+Item Set = ['Item38']       Support = 15.5        Size = 1
+Item Set = ['Item39']       Support = 14.3        Size = 1
+Item Set = ['Item40']       Support = 14.7        Size = 1
+Item Set = ['Item41']       Support = 12.6        Size = 1
+Item Set = ['Item42']       Support = 15.0        Size = 1
+Item Set = ['Item43']       Support = 15.4        Size = 1
+Item Set = ['Item44']       Support = 14.0        Size = 1
+Item Set = ['Item45']       Support = 15.6        Size = 1
+Item Set = ['Item46']       Support = 12.6        Size = 1
+Item Set = ['Item47']       Support = 13.7        Size = 1
+Item Set = ['Item48']       Support = 13.6        Size = 1
+Item Set = ['Item49']       Support = 15.4        Size = 1
+Item Set = ['Item50']       Support = 13.0        Size = 1
+Item Set = ['Item1', 'Item3']       Support = 2.3        Size = 2       conf = 15.9722222222
+Item Set = ['Item1', 'Item4']       Support = 2.4        Size = 2       conf = 16.6666666667
+Item Set = ['Item1', 'Item5']       Support = 2.0        Size = 2       conf = 13.8888888889
+Item Set = ['Item1', 'Item6']       Support = 2.3        Size = 2       conf = 15.9722222222
+Item Set = ['Item1', 'Item7']       Support = 2.4        Size = 2       conf = 16.6666666667
+Item Set = ['Item1', 'Item14']       Support = 2.3        Size = 2       conf = 15.9722222222
+Item Set = ['Item1', 'Item15']       Support = 2.1        Size = 2       conf = 14.5833333333
+Item Set = ['Item1', 'Item18']       Support = 2.5        Size = 2       conf = 17.3611111111
+Item Set = ['Item1', 'Item22']       Support = 2.1        Size = 2       conf = 14.5833333333
+Item Set = ['Item1', 'Item27']       Support = 2.0        Size = 2       conf = 13.8888888889
+Item Set = ['Item1', 'Item28']       Support = 2.3        Size = 2       conf = 15.9722222222
+Item Set = ['Item1', 'Item32']       Support = 2.0        Size = 2       conf = 13.8888888889
+Item Set = ['Item1', 'Item35']       Support = 2.0        Size = 2       conf = 13.8888888889
+Item Set = ['Item1', 'Item36']       Support = 2.0        Size = 2       conf = 13.8888888889
+Item Set = ['Item1', 'Item39']       Support = 2.3        Size = 2       conf = 15.9722222222
+Item Set = ['Item1', 'Item40']       Support = 2.2        Size = 2       conf = 15.2777777778
+Item Set = ['Item1', 'Item42']       Support = 2.3        Size = 2       conf = 15.9722222222
+Item Set = ['Item1', 'Item43']       Support = 2.5        Size = 2       conf = 17.3611111111
+Item Set = ['Item1', 'Item44']       Support = 2.1        Size = 2       conf = 14.5833333333
+Item Set = ['Item1', 'Item47']       Support = 2.0        Size = 2       conf = 13.8888888889
+Item Set = ['Item2', 'Item3']       Support = 2.1        Size = 2       conf = 15.9090909091
+Item Set = ['Item2', 'Item7']       Support = 2.3        Size = 2       conf = 17.4242424242
+Item Set = ['Item2', 'Item10']       Support = 2.6        Size = 2       conf = 19.696969697
+Item Set = ['Item2', 'Item16']       Support = 2.1        Size = 2       conf = 15.9090909091
+Item Set = ['Item2', 'Item26']       Support = 2.0        Size = 2       conf = 15.1515151515
+Item Set = ['Item2', 'Item28']       Support = 2.2        Size = 2       conf = 16.6666666667
+Item Set = ['Item2', 'Item29']       Support = 2.1        Size = 2       conf = 15.9090909091
+Item Set = ['Item2', 'Item39']       Support = 2.1        Size = 2       conf = 15.9090909091
+Item Set = ['Item2', 'Item40']       Support = 2.1        Size = 2       conf = 15.9090909091
+Item Set = ['Item2', 'Item42']       Support = 2.6        Size = 2       conf = 19.696969697
+Item Set = ['Item2', 'Item49']       Support = 2.3        Size = 2       conf = 17.4242424242
+Item Set = ['Item3', 'Item4']       Support = 2.0        Size = 2       conf = 13.698630137
+Item Set = ['Item3', 'Item14']       Support = 2.5        Size = 2       conf = 17.1232876712
+Item Set = ['Item3', 'Item16']       Support = 2.9        Size = 2       conf = 19.8630136986
+Item Set = ['Item3', 'Item19']       Support = 2.7        Size = 2       conf = 18.4931506849
+Item Set = ['Item3', 'Item20']       Support = 2.7        Size = 2       conf = 18.4931506849
+Item Set = ['Item3', 'Item21']       Support = 2.1        Size = 2       conf = 14.3835616438
+Item Set = ['Item3', 'Item23']       Support = 2.0        Size = 2       conf = 13.698630137
+Item Set = ['Item3', 'Item24']       Support = 2.0        Size = 2       conf = 13.698630137
+Item Set = ['Item3', 'Item26']       Support = 2.0        Size = 2       conf = 13.698630137
+Item Set = ['Item3', 'Item27']       Support = 2.0        Size = 2       conf = 13.698630137
+Item Set = ['Item3', 'Item30']       Support = 2.4        Size = 2       conf = 16.4383561644
+Item Set = ['Item3', 'Item34']       Support = 2.3        Size = 2       conf = 15.7534246575
+Item Set = ['Item3', 'Item39']       Support = 2.1        Size = 2       conf = 14.3835616438
+Item Set = ['Item3', 'Item40']       Support = 2.0        Size = 2       conf = 13.698630137
+Item Set = ['Item3', 'Item42']       Support = 2.5        Size = 2       conf = 17.1232876712
+Item Set = ['Item3', 'Item43']       Support = 2.1        Size = 2       conf = 14.3835616438
+Item Set = ['Item3', 'Item48']       Support = 2.2        Size = 2       conf = 15.0684931507
+Item Set = ['Item3', 'Item49']       Support = 2.0        Size = 2       conf = 13.698630137
+Item Set = ['Item4', 'Item6']       Support = 2.0        Size = 2       conf = 13.3333333333
+Item Set = ['Item4', 'Item7']       Support = 2.1        Size = 2       conf = 14.0
+Item Set = ['Item4', 'Item10']       Support = 2.8        Size = 2       conf = 18.6666666667
+Item Set = ['Item4', 'Item12']       Support = 2.3        Size = 2       conf = 15.3333333333
+Item Set = ['Item4', 'Item16']       Support = 2.0        Size = 2       conf = 13.3333333333
+Item Set = ['Item4', 'Item20']       Support = 2.0        Size = 2       conf = 13.3333333333
+Item Set = ['Item4', 'Item23']       Support = 2.6        Size = 2       conf = 17.3333333333
+Item Set = ['Item4', 'Item26']       Support = 2.5        Size = 2       conf = 16.6666666667
+Item Set = ['Item4', 'Item27']       Support = 2.4        Size = 2       conf = 16.0
+Item Set = ['Item4', 'Item29']       Support = 2.0        Size = 2       conf = 13.3333333333
+Item Set = ['Item4', 'Item30']       Support = 2.1        Size = 2       conf = 14.0
+Item Set = ['Item4', 'Item31']       Support = 2.0        Size = 2       conf = 13.3333333333
+Item Set = ['Item4', 'Item32']       Support = 2.3        Size = 2       conf = 15.3333333333
+Item Set = ['Item4', 'Item36']       Support = 2.0        Size = 2       conf = 13.3333333333
+Item Set = ['Item4', 'Item38']       Support = 2.3        Size = 2       conf = 15.3333333333
+Item Set = ['Item4', 'Item43']       Support = 2.5        Size = 2       conf = 16.6666666667
+Item Set = ['Item4', 'Item50']       Support = 2.5        Size = 2       conf = 16.6666666667
+Item Set = ['Item5', 'Item20']       Support = 2.0        Size = 2       conf = 15.873015873
+Item Set = ['Item5', 'Item25']       Support = 2.0        Size = 2       conf = 15.873015873
+Item Set = ['Item5', 'Item26']       Support = 2.0        Size = 2       conf = 15.873015873
+Item Set = ['Item5', 'Item31']       Support = 2.2        Size = 2       conf = 17.4603174603
+Item Set = ['Item5', 'Item32']       Support = 2.1        Size = 2       conf = 16.6666666667
+Item Set = ['Item5', 'Item35']       Support = 2.1        Size = 2       conf = 16.6666666667
+Item Set = ['Item5', 'Item39']       Support = 2.1        Size = 2       conf = 16.6666666667
+Item Set = ['Item5', 'Item43']       Support = 2.5        Size = 2       conf = 19.8412698413
+Item Set = ['Item5', 'Item45']       Support = 2.1        Size = 2       conf = 16.6666666667
+Item Set = ['Item6', 'Item9']       Support = 2.0        Size = 2       conf = 14.3884892086
+Item Set = ['Item6', 'Item13']       Support = 2.0        Size = 2       conf = 14.3884892086
+Item Set = ['Item6', 'Item14']       Support = 2.1        Size = 2       conf = 15.1079136691
+Item Set = ['Item6', 'Item19']       Support = 2.0        Size = 2       conf = 14.3884892086
+Item Set = ['Item6', 'Item25']       Support = 2.1        Size = 2       conf = 15.1079136691
+Item Set = ['Item6', 'Item26']       Support = 2.1        Size = 2       conf = 15.1079136691
+Item Set = ['Item6', 'Item27']       Support = 2.3        Size = 2       conf = 16.5467625899
+Item Set = ['Item6', 'Item29']       Support = 2.7        Size = 2       conf = 19.4244604317
+Item Set = ['Item6', 'Item30']       Support = 2.2        Size = 2       conf = 15.8273381295
+Item Set = ['Item6', 'Item35']       Support = 2.4        Size = 2       conf = 17.2661870504
+Item Set = ['Item6', 'Item38']       Support = 2.2        Size = 2       conf = 15.8273381295
+Item Set = ['Item6', 'Item42']       Support = 2.4        Size = 2       conf = 17.2661870504
+Item Set = ['Item7', 'Item8']       Support = 2.2        Size = 2       conf = 14.4736842105
+Item Set = ['Item7', 'Item10']       Support = 2.1        Size = 2       conf = 13.8157894737
+Item Set = ['Item7', 'Item12']       Support = 2.1        Size = 2       conf = 13.8157894737
+Item Set = ['Item7', 'Item13']       Support = 2.1        Size = 2       conf = 13.8157894737
+Item Set = ['Item7', 'Item14']       Support = 2.2        Size = 2       conf = 14.4736842105
+Item Set = ['Item7', 'Item19']       Support = 2.1        Size = 2       conf = 13.8157894737
+Item Set = ['Item7', 'Item20']       Support = 2.2        Size = 2       conf = 14.4736842105
+Item Set = ['Item7', 'Item28']       Support = 2.0        Size = 2       conf = 13.1578947368
+Item Set = ['Item7', 'Item29']       Support = 2.1        Size = 2       conf = 13.8157894737
+Item Set = ['Item7', 'Item30']       Support = 2.2        Size = 2       conf = 14.4736842105
+Item Set = ['Item7', 'Item35']       Support = 2.8        Size = 2       conf = 18.4210526316
+Item Set = ['Item7', 'Item36']       Support = 2.7        Size = 2       conf = 17.7631578947
+Item Set = ['Item7', 'Item39']       Support = 2.0        Size = 2       conf = 13.1578947368
+Item Set = ['Item7', 'Item40']       Support = 2.0        Size = 2       conf = 13.1578947368
+Item Set = ['Item7', 'Item41']       Support = 2.1        Size = 2       conf = 13.8157894737
+Item Set = ['Item7', 'Item43']       Support = 2.3        Size = 2       conf = 15.1315789474
+Item Set = ['Item7', 'Item45']       Support = 2.4        Size = 2       conf = 15.7894736842
+Item Set = ['Item7', 'Item46']       Support = 2.4        Size = 2       conf = 15.7894736842
+Item Set = ['Item7', 'Item47']       Support = 2.1        Size = 2       conf = 13.8157894737
+Item Set = ['Item8', 'Item16']       Support = 2.1        Size = 2       conf = 17.2131147541
+Item Set = ['Item8', 'Item26']       Support = 2.4        Size = 2       conf = 19.6721311475
+Item Set = ['Item8', 'Item38']       Support = 2.7        Size = 2       conf = 22.131147541
+Item Set = ['Item8', 'Item43']       Support = 2.3        Size = 2       conf = 18.8524590164
+Item Set = ['Item8', 'Item46']       Support = 2.1        Size = 2       conf = 17.2131147541
+Item Set = ['Item9', 'Item13']       Support = 2.0        Size = 2       conf = 14.8148148148
+Item Set = ['Item9', 'Item20']       Support = 2.4        Size = 2       conf = 17.7777777778
+Item Set = ['Item9', 'Item28']       Support = 2.0        Size = 2       conf = 14.8148148148
+Item Set = ['Item9', 'Item29']       Support = 2.3        Size = 2       conf = 17.037037037
+Item Set = ['Item9', 'Item32']       Support = 2.0        Size = 2       conf = 14.8148148148
+Item Set = ['Item9', 'Item40']       Support = 2.1        Size = 2       conf = 15.5555555556
+Item Set = ['Item9', 'Item43']       Support = 2.3        Size = 2       conf = 17.037037037
+Item Set = ['Item9', 'Item45']       Support = 2.0        Size = 2       conf = 14.8148148148
+Item Set = ['Item9', 'Item49']       Support = 2.0        Size = 2       conf = 14.8148148148
+Item Set = ['Item10', 'Item11']       Support = 2.1        Size = 2       conf = 15.1079136691
+Item Set = ['Item10', 'Item20']       Support = 2.4        Size = 2       conf = 17.2661870504
+Item Set = ['Item10', 'Item28']       Support = 2.1        Size = 2       conf = 15.1079136691
+Item Set = ['Item10', 'Item32']       Support = 2.0        Size = 2       conf = 14.3884892086
+Item Set = ['Item10', 'Item36']       Support = 2.4        Size = 2       conf = 17.2661870504
+Item Set = ['Item10', 'Item39']       Support = 2.1        Size = 2       conf = 15.1079136691
+Item Set = ['Item10', 'Item40']       Support = 2.1        Size = 2       conf = 15.1079136691
+Item Set = ['Item10', 'Item42']       Support = 2.2        Size = 2       conf = 15.8273381295
+Item Set = ['Item10', 'Item43']       Support = 2.3        Size = 2       conf = 16.5467625899
+Item Set = ['Item11', 'Item16']       Support = 2.0        Size = 2       conf = 14.9253731343
+Item Set = ['Item11', 'Item19']       Support = 2.0        Size = 2       conf = 14.9253731343
+Item Set = ['Item11', 'Item20']       Support = 2.4        Size = 2       conf = 17.9104477612
+Item Set = ['Item11', 'Item21']       Support = 2.1        Size = 2       conf = 15.671641791
+Item Set = ['Item11', 'Item32']       Support = 2.0        Size = 2       conf = 14.9253731343
+Item Set = ['Item11', 'Item35']       Support = 2.1        Size = 2       conf = 15.671641791
+Item Set = ['Item11', 'Item38']       Support = 2.0        Size = 2       conf = 14.9253731343
+Item Set = ['Item11', 'Item39']       Support = 2.1        Size = 2       conf = 15.671641791
+Item Set = ['Item11', 'Item43']       Support = 2.1        Size = 2       conf = 15.671641791
+Item Set = ['Item11', 'Item45']       Support = 2.3        Size = 2       conf = 17.1641791045
+Item Set = ['Item11', 'Item48']       Support = 2.4        Size = 2       conf = 17.9104477612
+Item Set = ['Item11', 'Item49']       Support = 2.4        Size = 2       conf = 17.9104477612
+Item Set = ['Item12', 'Item16']       Support = 2.7        Size = 2       conf = 18.3673469388
+Item Set = ['Item12', 'Item18']       Support = 2.2        Size = 2       conf = 14.9659863946
+Item Set = ['Item12', 'Item19']       Support = 2.2        Size = 2       conf = 14.9659863946
+Item Set = ['Item12', 'Item20']       Support = 2.0        Size = 2       conf = 13.6054421769
+Item Set = ['Item12', 'Item22']       Support = 2.6        Size = 2       conf = 17.6870748299
+Item Set = ['Item12', 'Item26']       Support = 2.1        Size = 2       conf = 14.2857142857
+Item Set = ['Item12', 'Item28']       Support = 2.5        Size = 2       conf = 17.0068027211
+Item Set = ['Item12', 'Item30']       Support = 2.6        Size = 2       conf = 17.6870748299
+Item Set = ['Item12', 'Item31']       Support = 2.0        Size = 2       conf = 13.6054421769
+Item Set = ['Item12', 'Item32']       Support = 2.3        Size = 2       conf = 15.6462585034
+Item Set = ['Item12', 'Item37']       Support = 2.3        Size = 2       conf = 15.6462585034
+Item Set = ['Item12', 'Item38']       Support = 2.2        Size = 2       conf = 14.9659863946
+Item Set = ['Item12', 'Item40']       Support = 2.4        Size = 2       conf = 16.3265306122
+Item Set = ['Item12', 'Item42']       Support = 2.1        Size = 2       conf = 14.2857142857
+Item Set = ['Item12', 'Item43']       Support = 2.5        Size = 2       conf = 17.0068027211
+Item Set = ['Item12', 'Item46']       Support = 2.0        Size = 2       conf = 13.6054421769
+Item Set = ['Item12', 'Item49']       Support = 2.1        Size = 2       conf = 14.2857142857
+Item Set = ['Item13', 'Item21']       Support = 2.1        Size = 2       conf = 14.8936170213
+Item Set = ['Item13', 'Item25']       Support = 2.2        Size = 2       conf = 15.6028368794
+Item Set = ['Item13', 'Item26']       Support = 2.3        Size = 2       conf = 16.3120567376
+Item Set = ['Item13', 'Item29']       Support = 2.0        Size = 2       conf = 14.1843971631
+Item Set = ['Item13', 'Item32']       Support = 2.5        Size = 2       conf = 17.7304964539
+Item Set = ['Item13', 'Item33']       Support = 2.3        Size = 2       conf = 16.3120567376
+Item Set = ['Item13', 'Item35']       Support = 2.0        Size = 2       conf = 14.1843971631
+Item Set = ['Item13', 'Item36']       Support = 2.0        Size = 2       conf = 14.1843971631
+Item Set = ['Item13', 'Item38']       Support = 2.7        Size = 2       conf = 19.1489361702
+Item Set = ['Item13', 'Item40']       Support = 2.2        Size = 2       conf = 15.6028368794
+Item Set = ['Item13', 'Item41']       Support = 2.0        Size = 2       conf = 14.1843971631
+Item Set = ['Item13', 'Item43']       Support = 2.2        Size = 2       conf = 15.6028368794
+Item Set = ['Item13', 'Item44']       Support = 2.1        Size = 2       conf = 14.8936170213
+Item Set = ['Item14', 'Item18']       Support = 2.3        Size = 2       conf = 17.037037037
+Item Set = ['Item14', 'Item24']       Support = 2.0        Size = 2       conf = 14.8148148148
+Item Set = ['Item14', 'Item27']       Support = 2.3        Size = 2       conf = 17.037037037
+Item Set = ['Item14', 'Item28']       Support = 2.0        Size = 2       conf = 14.8148148148
+Item Set = ['Item14', 'Item30']       Support = 2.0        Size = 2       conf = 14.8148148148
+Item Set = ['Item14', 'Item39']       Support = 2.0        Size = 2       conf = 14.8148148148
+Item Set = ['Item14', 'Item40']       Support = 2.0        Size = 2       conf = 14.8148148148
+Item Set = ['Item14', 'Item41']       Support = 2.0        Size = 2       conf = 14.8148148148
+Item Set = ['Item14', 'Item44']       Support = 2.3        Size = 2       conf = 17.037037037
+Item Set = ['Item14', 'Item45']       Support = 2.4        Size = 2       conf = 17.7777777778
+Item Set = ['Item15', 'Item26']       Support = 2.1        Size = 2       conf = 16.2790697674
+Item Set = ['Item15', 'Item27']       Support = 2.1        Size = 2       conf = 16.2790697674
+Item Set = ['Item15', 'Item28']       Support = 2.2        Size = 2       conf = 17.0542635659
+Item Set = ['Item15', 'Item36']       Support = 2.0        Size = 2       conf = 15.503875969
+Item Set = ['Item15', 'Item38']       Support = 2.0        Size = 2       conf = 15.503875969
+Item Set = ['Item15', 'Item42']       Support = 2.1        Size = 2       conf = 16.2790697674
+Item Set = ['Item15', 'Item43']       Support = 2.1        Size = 2       conf = 16.2790697674
+Item Set = ['Item15', 'Item45']       Support = 2.1        Size = 2       conf = 16.2790697674
+Item Set = ['Item16', 'Item17']       Support = 2.1        Size = 2       conf = 13.6363636364
+Item Set = ['Item16', 'Item18']       Support = 2.6        Size = 2       conf = 16.8831168831
+Item Set = ['Item16', 'Item20']       Support = 2.1        Size = 2       conf = 13.6363636364
+Item Set = ['Item16', 'Item21']       Support = 2.2        Size = 2       conf = 14.2857142857
+Item Set = ['Item16', 'Item24']       Support = 2.2        Size = 2       conf = 14.2857142857
+Item Set = ['Item16', 'Item30']       Support = 2.2        Size = 2       conf = 14.2857142857
+Item Set = ['Item16', 'Item32']       Support = 2.6        Size = 2       conf = 16.8831168831
+Item Set = ['Item16', 'Item33']       Support = 2.0        Size = 2       conf = 12.987012987
+Item Set = ['Item16', 'Item34']       Support = 2.4        Size = 2       conf = 15.5844155844
+Item Set = ['Item16', 'Item35']       Support = 2.1        Size = 2       conf = 13.6363636364
+Item Set = ['Item16', 'Item39']       Support = 2.4        Size = 2       conf = 15.5844155844
+Item Set = ['Item16', 'Item40']       Support = 2.8        Size = 2       conf = 18.1818181818
+Item Set = ['Item16', 'Item45']       Support = 2.4        Size = 2       conf = 15.5844155844
+Item Set = ['Item16', 'Item48']       Support = 2.1        Size = 2       conf = 13.6363636364
+Item Set = ['Item17', 'Item19']       Support = 2.0        Size = 2       conf = 15.1515151515
+Item Set = ['Item17', 'Item23']       Support = 2.4        Size = 2       conf = 18.1818181818
+Item Set = ['Item17', 'Item25']       Support = 2.1        Size = 2       conf = 15.9090909091
+Item Set = ['Item17', 'Item28']       Support = 2.7        Size = 2       conf = 20.4545454545
+Item Set = ['Item17', 'Item30']       Support = 2.6        Size = 2       conf = 19.696969697
+Item Set = ['Item17', 'Item33']       Support = 2.0        Size = 2       conf = 15.1515151515
+Item Set = ['Item17', 'Item39']       Support = 2.1        Size = 2       conf = 15.9090909091
+Item Set = ['Item17', 'Item42']       Support = 2.2        Size = 2       conf = 16.6666666667
+Item Set = ['Item18', 'Item26']       Support = 2.4        Size = 2       conf = 16.5517241379
+Item Set = ['Item18', 'Item27']       Support = 2.0        Size = 2       conf = 13.7931034483
+Item Set = ['Item18', 'Item28']       Support = 2.2        Size = 2       conf = 15.1724137931
+Item Set = ['Item18', 'Item29']       Support = 2.2        Size = 2       conf = 15.1724137931
+Item Set = ['Item18', 'Item30']       Support = 2.1        Size = 2       conf = 14.4827586207
+Item Set = ['Item18', 'Item35']       Support = 2.0        Size = 2       conf = 13.7931034483
+Item Set = ['Item18', 'Item36']       Support = 2.4        Size = 2       conf = 16.5517241379
+Item Set = ['Item18', 'Item38']       Support = 2.1        Size = 2       conf = 14.4827586207
+Item Set = ['Item18', 'Item42']       Support = 2.0        Size = 2       conf = 13.7931034483
+Item Set = ['Item18', 'Item45']       Support = 2.6        Size = 2       conf = 17.9310344828
+Item Set = ['Item19', 'Item23']       Support = 2.0        Size = 2       conf = 14.4927536232
+Item Set = ['Item19', 'Item24']       Support = 2.4        Size = 2       conf = 17.3913043478
+Item Set = ['Item19', 'Item29']       Support = 2.1        Size = 2       conf = 15.2173913043
+Item Set = ['Item19', 'Item31']       Support = 2.1        Size = 2       conf = 15.2173913043
+Item Set = ['Item19', 'Item32']       Support = 2.4        Size = 2       conf = 17.3913043478
+Item Set = ['Item19', 'Item41']       Support = 2.3        Size = 2       conf = 16.6666666667
+Item Set = ['Item19', 'Item43']       Support = 2.3        Size = 2       conf = 16.6666666667
+Item Set = ['Item19', 'Item47']       Support = 2.3        Size = 2       conf = 16.6666666667
+Item Set = ['Item19', 'Item49']       Support = 2.1        Size = 2       conf = 15.2173913043
+Item Set = ['Item20', 'Item22']       Support = 2.2        Size = 2       conf = 14.8648648649
+Item Set = ['Item20', 'Item30']       Support = 2.0        Size = 2       conf = 13.5135135135
+Item Set = ['Item20', 'Item35']       Support = 3.0        Size = 2       conf = 20.2702702703
+Item Set = ['Item20', 'Item37']       Support = 2.6        Size = 2       conf = 17.5675675676
+Item Set = ['Item20', 'Item40']       Support = 2.0        Size = 2       conf = 13.5135135135
+Item Set = ['Item20', 'Item42']       Support = 2.4        Size = 2       conf = 16.2162162162
+Item Set = ['Item20', 'Item43']       Support = 2.3        Size = 2       conf = 15.5405405405
+Item Set = ['Item20', 'Item45']       Support = 2.3        Size = 2       conf = 15.5405405405
+Item Set = ['Item20', 'Item47']       Support = 2.0        Size = 2       conf = 13.5135135135
+Item Set = ['Item20', 'Item49']       Support = 2.1        Size = 2       conf = 14.1891891892
+Item Set = ['Item21', 'Item25']       Support = 2.0        Size = 2       conf = 15.7480314961
+Item Set = ['Item21', 'Item26']       Support = 2.5        Size = 2       conf = 19.6850393701
+Item Set = ['Item21', 'Item28']       Support = 2.0        Size = 2       conf = 15.7480314961
+Item Set = ['Item21', 'Item31']       Support = 2.0        Size = 2       conf = 15.7480314961
+Item Set = ['Item21', 'Item33']       Support = 2.2        Size = 2       conf = 17.3228346457
+Item Set = ['Item21', 'Item38']       Support = 2.2        Size = 2       conf = 17.3228346457
+Item Set = ['Item21', 'Item40']       Support = 2.6        Size = 2       conf = 20.4724409449
+Item Set = ['Item21', 'Item48']       Support = 2.3        Size = 2       conf = 18.1102362205
+Item Set = ['Item21', 'Item49']       Support = 2.0        Size = 2       conf = 15.7480314961
+Item Set = ['Item22', 'Item28']       Support = 2.0        Size = 2       conf = 15.037593985
+Item Set = ['Item22', 'Item30']       Support = 2.3        Size = 2       conf = 17.2932330827
+Item Set = ['Item22', 'Item35']       Support = 2.3        Size = 2       conf = 17.2932330827
+Item Set = ['Item22', 'Item40']       Support = 2.1        Size = 2       conf = 15.7894736842
+Item Set = ['Item22', 'Item49']       Support = 2.0        Size = 2       conf = 15.037593985
+Item Set = ['Item23', 'Item28']       Support = 2.1        Size = 2       conf = 16.8
+Item Set = ['Item23', 'Item31']       Support = 2.1        Size = 2       conf = 16.8
+Item Set = ['Item23', 'Item39']       Support = 2.1        Size = 2       conf = 16.8
+Item Set = ['Item23', 'Item43']       Support = 2.5        Size = 2       conf = 20.0
+Item Set = ['Item24', 'Item26']       Support = 2.0        Size = 2       conf = 15.2671755725
+Item Set = ['Item24', 'Item27']       Support = 2.0        Size = 2       conf = 15.2671755725
+Item Set = ['Item24', 'Item34']       Support = 2.1        Size = 2       conf = 16.0305343511
+Item Set = ['Item24', 'Item39']       Support = 2.2        Size = 2       conf = 16.7938931298
+Item Set = ['Item24', 'Item43']       Support = 2.1        Size = 2       conf = 16.0305343511
+Item Set = ['Item24', 'Item45']       Support = 2.1        Size = 2       conf = 16.0305343511
+Item Set = ['Item25', 'Item28']       Support = 2.4        Size = 2       conf = 19.512195122
+Item Set = ['Item25', 'Item29']       Support = 2.0        Size = 2       conf = 16.2601626016
+Item Set = ['Item25', 'Item38']       Support = 2.5        Size = 2       conf = 20.325203252
+Item Set = ['Item25', 'Item45']       Support = 2.2        Size = 2       conf = 17.8861788618
+Item Set = ['Item26', 'Item27']       Support = 2.2        Size = 2       conf = 14.3790849673
+Item Set = ['Item26', 'Item29']       Support = 2.9        Size = 2       conf = 18.954248366
+Item Set = ['Item26', 'Item33']       Support = 2.5        Size = 2       conf = 16.339869281
+Item Set = ['Item26', 'Item34']       Support = 2.1        Size = 2       conf = 13.7254901961
+Item Set = ['Item26', 'Item35']       Support = 2.4        Size = 2       conf = 15.6862745098
+Item Set = ['Item26', 'Item37']       Support = 2.0        Size = 2       conf = 13.0718954248
+Item Set = ['Item26', 'Item38']       Support = 2.6        Size = 2       conf = 16.9934640523
+Item Set = ['Item26', 'Item39']       Support = 2.1        Size = 2       conf = 13.7254901961
+Item Set = ['Item26', 'Item40']       Support = 2.7        Size = 2       conf = 17.6470588235
+Item Set = ['Item26', 'Item42']       Support = 2.1        Size = 2       conf = 13.7254901961
+Item Set = ['Item26', 'Item43']       Support = 2.0        Size = 2       conf = 13.0718954248
+Item Set = ['Item26', 'Item45']       Support = 2.4        Size = 2       conf = 15.6862745098
+Item Set = ['Item26', 'Item48']       Support = 2.8        Size = 2       conf = 18.3006535948
+Item Set = ['Item27', 'Item30']       Support = 2.2        Size = 2       conf = 14.7651006711
+Item Set = ['Item27', 'Item31']       Support = 2.2        Size = 2       conf = 14.7651006711
+Item Set = ['Item27', 'Item33']       Support = 2.1        Size = 2       conf = 14.0939597315
+Item Set = ['Item27', 'Item35']       Support = 2.2        Size = 2       conf = 14.7651006711
+Item Set = ['Item27', 'Item36']       Support = 2.2        Size = 2       conf = 14.7651006711
+Item Set = ['Item27', 'Item42']       Support = 2.2        Size = 2       conf = 14.7651006711
+Item Set = ['Item27', 'Item43']       Support = 2.7        Size = 2       conf = 18.1208053691
+Item Set = ['Item27', 'Item45']       Support = 2.1        Size = 2       conf = 14.0939597315
+Item Set = ['Item27', 'Item48']       Support = 2.6        Size = 2       conf = 17.4496644295
+Item Set = ['Item27', 'Item49']       Support = 2.3        Size = 2       conf = 15.4362416107
+Item Set = ['Item27', 'Item50']       Support = 2.0        Size = 2       conf = 13.4228187919
+Item Set = ['Item28', 'Item30']       Support = 2.6        Size = 2       conf = 16.9934640523
+Item Set = ['Item28', 'Item32']       Support = 2.1        Size = 2       conf = 13.7254901961
+Item Set = ['Item28', 'Item33']       Support = 2.2        Size = 2       conf = 14.3790849673
+Item Set = ['Item28', 'Item35']       Support = 2.3        Size = 2       conf = 15.0326797386
+Item Set = ['Item28', 'Item39']       Support = 2.0        Size = 2       conf = 13.0718954248
+Item Set = ['Item28', 'Item40']       Support = 2.1        Size = 2       conf = 13.7254901961
+Item Set = ['Item28', 'Item43']       Support = 2.3        Size = 2       conf = 15.0326797386
+Item Set = ['Item28', 'Item44']       Support = 2.6        Size = 2       conf = 16.9934640523
+Item Set = ['Item28', 'Item45']       Support = 2.0        Size = 2       conf = 13.0718954248
+Item Set = ['Item28', 'Item46']       Support = 2.1        Size = 2       conf = 13.7254901961
+Item Set = ['Item28', 'Item47']       Support = 2.1        Size = 2       conf = 13.7254901961
+Item Set = ['Item28', 'Item49']       Support = 2.7        Size = 2       conf = 17.6470588235
+Item Set = ['Item29', 'Item30']       Support = 2.1        Size = 2       conf = 14.4827586207
+Item Set = ['Item29', 'Item31']       Support = 2.3        Size = 2       conf = 15.8620689655
+Item Set = ['Item29', 'Item33']       Support = 2.3        Size = 2       conf = 15.8620689655
+Item Set = ['Item29', 'Item35']       Support = 2.7        Size = 2       conf = 18.6206896552
+Item Set = ['Item29', 'Item41']       Support = 2.3        Size = 2       conf = 15.8620689655
+Item Set = ['Item29', 'Item42']       Support = 2.4        Size = 2       conf = 16.5517241379
+Item Set = ['Item29', 'Item45']       Support = 2.3        Size = 2       conf = 15.8620689655
+Item Set = ['Item30', 'Item34']       Support = 2.1        Size = 2       conf = 13.6363636364
+Item Set = ['Item30', 'Item37']       Support = 2.1        Size = 2       conf = 13.6363636364
+Item Set = ['Item30', 'Item38']       Support = 2.8        Size = 2       conf = 18.1818181818
+Item Set = ['Item30', 'Item42']       Support = 2.0        Size = 2       conf = 12.987012987
+Item Set = ['Item30', 'Item43']       Support = 2.1        Size = 2       conf = 13.6363636364
+Item Set = ['Item30', 'Item44']       Support = 2.1        Size = 2       conf = 13.6363636364
+Item Set = ['Item30', 'Item45']       Support = 2.9        Size = 2       conf = 18.8311688312
+Item Set = ['Item30', 'Item46']       Support = 2.5        Size = 2       conf = 16.2337662338
+Item Set = ['Item30', 'Item48']       Support = 2.5        Size = 2       conf = 16.2337662338
+Item Set = ['Item31', 'Item32']       Support = 2.1        Size = 2       conf = 13.7254901961
+Item Set = ['Item31', 'Item33']       Support = 2.0        Size = 2       conf = 13.0718954248
+Item Set = ['Item31', 'Item34']       Support = 2.0        Size = 2       conf = 13.0718954248
+Item Set = ['Item31', 'Item35']       Support = 2.2        Size = 2       conf = 14.3790849673
+Item Set = ['Item31', 'Item36']       Support = 2.7        Size = 2       conf = 17.6470588235
+Item Set = ['Item31', 'Item38']       Support = 2.0        Size = 2       conf = 13.0718954248
+Item Set = ['Item31', 'Item39']       Support = 2.2        Size = 2       conf = 14.3790849673
+Item Set = ['Item31', 'Item41']       Support = 2.4        Size = 2       conf = 15.6862745098
+Item Set = ['Item31', 'Item42']       Support = 2.5        Size = 2       conf = 16.339869281
+Item Set = ['Item31', 'Item43']       Support = 2.4        Size = 2       conf = 15.6862745098
+Item Set = ['Item31', 'Item46']       Support = 2.2        Size = 2       conf = 14.3790849673
+Item Set = ['Item31', 'Item47']       Support = 2.0        Size = 2       conf = 13.0718954248
+Item Set = ['Item31', 'Item48']       Support = 2.0        Size = 2       conf = 13.0718954248
+Item Set = ['Item31', 'Item49']       Support = 2.2        Size = 2       conf = 14.3790849673
+Item Set = ['Item31', 'Item50']       Support = 2.3        Size = 2       conf = 15.0326797386
+Item Set = ['Item32', 'Item33']       Support = 2.2        Size = 2       conf = 14.9659863946
+Item Set = ['Item32', 'Item35']       Support = 2.1        Size = 2       conf = 14.2857142857
+Item Set = ['Item32', 'Item37']       Support = 2.3        Size = 2       conf = 15.6462585034
+Item Set = ['Item32', 'Item39']       Support = 2.1        Size = 2       conf = 14.2857142857
+Item Set = ['Item32', 'Item42']       Support = 2.8        Size = 2       conf = 19.0476190476
+Item Set = ['Item32', 'Item45']       Support = 2.0        Size = 2       conf = 13.6054421769
+Item Set = ['Item32', 'Item46']       Support = 2.5        Size = 2       conf = 17.0068027211
+Item Set = ['Item33', 'Item37']       Support = 2.0        Size = 2       conf = 14.3884892086
+Item Set = ['Item33', 'Item43']       Support = 2.5        Size = 2       conf = 17.9856115108
+Item Set = ['Item33', 'Item48']       Support = 2.1        Size = 2       conf = 15.1079136691
+Item Set = ['Item33', 'Item49']       Support = 2.2        Size = 2       conf = 15.8273381295
+Item Set = ['Item34', 'Item43']       Support = 2.0        Size = 2       conf = 16.0
+Item Set = ['Item35', 'Item39']       Support = 2.4        Size = 2       conf = 16.1073825503
+Item Set = ['Item35', 'Item44']       Support = 2.0        Size = 2       conf = 13.4228187919
+Item Set = ['Item35', 'Item46']       Support = 2.1        Size = 2       conf = 14.0939597315
+Item Set = ['Item35', 'Item47']       Support = 2.1        Size = 2       conf = 14.0939597315
+Item Set = ['Item35', 'Item49']       Support = 2.1        Size = 2       conf = 14.0939597315
+Item Set = ['Item36', 'Item37']       Support = 2.0        Size = 2       conf = 14.1843971631
+Item Set = ['Item36', 'Item41']       Support = 2.2        Size = 2       conf = 15.6028368794
+Item Set = ['Item36', 'Item42']       Support = 2.7        Size = 2       conf = 19.1489361702
+Item Set = ['Item36', 'Item46']       Support = 2.1        Size = 2       conf = 14.8936170213
+Item Set = ['Item36', 'Item49']       Support = 2.4        Size = 2       conf = 17.0212765957
+Item Set = ['Item37', 'Item38']       Support = 2.2        Size = 2       conf = 16.4179104478
+Item Set = ['Item37', 'Item44']       Support = 2.3        Size = 2       conf = 17.1641791045
+Item Set = ['Item37', 'Item45']       Support = 2.5        Size = 2       conf = 18.6567164179
+Item Set = ['Item37', 'Item46']       Support = 2.3        Size = 2       conf = 17.1641791045
+Item Set = ['Item38', 'Item40']       Support = 2.5        Size = 2       conf = 16.1290322581
+Item Set = ['Item38', 'Item41']       Support = 2.0        Size = 2       conf = 12.9032258065
+Item Set = ['Item38', 'Item43']       Support = 2.3        Size = 2       conf = 14.8387096774
+Item Set = ['Item38', 'Item45']       Support = 2.8        Size = 2       conf = 18.064516129
+Item Set = ['Item38', 'Item46']       Support = 2.1        Size = 2       conf = 13.5483870968
+Item Set = ['Item38', 'Item48']       Support = 2.0        Size = 2       conf = 12.9032258065
+Item Set = ['Item38', 'Item49']       Support = 2.9        Size = 2       conf = 18.7096774194
+Item Set = ['Item38', 'Item50']       Support = 2.3        Size = 2       conf = 14.8387096774
+Item Set = ['Item39', 'Item42']       Support = 2.5        Size = 2       conf = 17.4825174825
+Item Set = ['Item39', 'Item44']       Support = 2.4        Size = 2       conf = 16.7832167832
+Item Set = ['Item39', 'Item45']       Support = 2.2        Size = 2       conf = 15.3846153846
+Item Set = ['Item39', 'Item49']       Support = 2.2        Size = 2       conf = 15.3846153846
+Item Set = ['Item40', 'Item43']       Support = 2.0        Size = 2       conf = 13.6054421769
+Item Set = ['Item40', 'Item44']       Support = 2.2        Size = 2       conf = 14.9659863946
+Item Set = ['Item40', 'Item49']       Support = 2.2        Size = 2       conf = 14.9659863946
+Item Set = ['Item42', 'Item45']       Support = 2.1        Size = 2       conf = 14.0
+Item Set = ['Item43', 'Item46']       Support = 2.0        Size = 2       conf = 12.987012987
+Item Set = ['Item43', 'Item49']       Support = 2.5        Size = 2       conf = 16.2337662338
+Item Set = ['Item43', 'Item50']       Support = 2.1        Size = 2       conf = 13.6363636364
+Item Set = ['Item44', 'Item45']       Support = 2.6        Size = 2       conf = 18.5714285714
+Item Set = ['Item44', 'Item47']       Support = 2.4        Size = 2       conf = 17.1428571429
+Item Set = ['Item45', 'Item47']       Support = 2.1        Size = 2       conf = 13.4615384615
+Item Set = ['Item45', 'Item48']       Support = 2.0        Size = 2       conf = 12.8205128205
+Item Set = ['Item45', 'Item50']       Support = 2.0        Size = 2       conf = 12.8205128205
+Item Set = ['Item46', 'Item49']       Support = 2.1        Size = 2       conf = 16.6666666667
+Item Set = ['Item48', 'Item49']       Support = 2.1        Size = 2       conf = 15.4411764706
